@@ -1,3 +1,7 @@
+body {
+  color: #215c3f;
+  font-family: "Open Sans", sans-serif;
+}
 h1 a,
 h2 a {
   color: #399d6d;
